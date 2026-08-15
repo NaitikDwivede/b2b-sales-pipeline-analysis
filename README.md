@@ -28,7 +28,7 @@ The analysis follows leads from New Lead through Contacted, Qualified, Proposal 
 ## Dashboard Preview
 
 ### Funnel Summary
-![Funnel Summary](YOUR-FUNNEL-SCREENSHOT-FILENAME.png)
+![Funnel Summary](Funnel_Summary.png)
 
 ### Lead Source Analysis
 ![Lead Source Analysis](YOUR-LEAD-SOURCE-SCREENSHOT-FILENAME.png)
